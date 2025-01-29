@@ -1,5 +1,9 @@
 # WebPage-Obsidian
 
+知乎文字链接：[Obsidian与摘录网页图片](https://zhuanlan.zhihu.com/p/698613409)
+
+哔哩哔哩视频链接：[Obsidian与摘录网页图片](https://www.bilibili.com/video/BV1Hz421Y7w9/?spm_id_from=333.1387.homepage.video_card.click&vd_source=c08c205650a4a5e13d87475ab1ab2431)
+
 这次突然想到一个摘录网页的动作，截取网页图片，并复制网页链接。然后将图片复制到Obsidian库中，并复制上摘录链接。
 
 思路非常简单：
